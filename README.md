@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rockyramirezatty
+- 👀 I’m interested in 
+- 🌱 I’m currently learning graph theory, frameworks for agentic workflows
+- 💞️ I’m looking to collaborate on developing and engineering solutions for criminal defense attorneys
+- 📫 How to reach me rocky@rockyramirez.io
